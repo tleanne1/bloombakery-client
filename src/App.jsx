@@ -5,6 +5,7 @@ import Menu from "./sections/Menu";
 import Testimonials from "./sections/Testimonials";
 import Contact from "./sections/Contact";
 import Footer from "./components/Footer";
+import OrderForm from "./sections/OrderForm";
 
 
 
@@ -16,6 +17,7 @@ const App = () => {
       <Menu />
       <Testimonials />
       <Contact />
+      <OrderForm />
       <Footer />
     </main>
   );
