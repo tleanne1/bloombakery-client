@@ -59,7 +59,8 @@ Try placing a test order via the [Order Form](https://bloombakery.vercel.app/#or
 
 ## 👩‍🍳 Mock Client Testimonial
 
-<img width="1710" alt="bloombakery-client" src="https://github.com/user-attachments/assets/35e46e63-7524-480f-a248-c23025d276dd" />
+![Uploading bloombakery-client.png…]()
+
 
 > “Tracey brought BloomBakery to life with elegance and warmth. The site is exactly what I imagined — soft, joyful, and simple for customers to use. My favorite part is the custom order form. I feel like I finally have a home for my brand!”  
 > — *Mock Bakery Owner, Dallas TX*
