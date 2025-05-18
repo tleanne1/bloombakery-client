@@ -6,12 +6,13 @@ import Testimonials from "./sections/Testimonials";
 import Contact from "./sections/Contact";
 import Footer from "./components/Footer";
 import OrderForm from "./sections/OrderForm";
-
+import Navbar from "./components/Navbar";
 
 
 const App = () => {
   return (
     <main className="font-sans">
+      <Navbar />
       <Hero />
       <About />
       <Menu />
